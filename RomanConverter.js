@@ -11,7 +11,7 @@ function convertToRoman(num) {
     }
 
     //array for the roman characters
-    var romChar = ["I", "V", "X", "L", "C", "D", "M","K"];
+    var romChar = ["I", "V", "X", "L", "C", "D", "M"];
     // flag use ro access romChar
     var flag = 0;
 
